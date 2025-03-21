@@ -64,4 +64,4 @@ ScrapeMEE is a powerful **GUI-based web scraping tool** designed to extract text
 - 📌 Browser automation for interactive sites.
 
 ## Author
-Developed by **[Kakashi Hatake]** 🚀
+Developed by **Kakashi Hatake** 🚀
